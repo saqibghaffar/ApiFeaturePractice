@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>GitGrub</title>
+    <%= csrf_meta_tags %>
+
+    <%= stylesheet_link_tag    'application', media: 'all' %>
+    <%= javascript_include_tag 'application' %>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="logo">
+        <h2 class="mt-5">
+          GitGrub: Social Eating
+          <span></span>
+        </h2>
+      </div>
+      <hr/>
+      <div class="columns mt-5">
+        <div class="one-third column">
+          <nav class="menu">
+            <%= nav_link_to "Food Truck Directory", "/", match: "trucks" %>
+            <%= nav_link_to "Browse by Tag", "/tags", match: "tags" %>
+          </nav>
+        </div>
+        <div class="two-thirds column">
+          <%= yield %>
+        </div>
+      </div>
+      <div class="columns">
+        <hr/>
+        <p class="text-center text-gray-light pb-5">
+          🚚 Eat real food, real fast.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

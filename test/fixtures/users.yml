@@ -1,0 +1,10 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+harry:
+  login: hungry_harry
+
+rachel:
+  login: ravenous_rachel
+
+victor:
+  login: victor_vegan

@@ -1,0 +1,31 @@
+{
+  "name": "gitgrub-reviews",
+  "version": "1.0.0",
+  "description": "npm dependencies for gitgrub",
+  "main": "application.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github-interviews/gitgrub-reviews.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github-interviews/gitgrub-reviews/issues"
+  },
+  "homepage": "https://github.com/github-interviews/gitgrub-reviews#readme",
+  "dependencies": {
+    "@rails/webpacker": "^3.0.2",
+    "coffeescript": "1.12.7",
+    "primer-css": "9.6.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.9.4"
+  }
+}

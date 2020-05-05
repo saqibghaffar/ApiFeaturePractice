@@ -1,0 +1,90 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+pizza:
+  name: Del Popolo
+  website: http://www.delpopolosf.com/
+  description: >
+    This lovely marvel of modern machinery is a huge, mobile pizza oven housed
+    in a former shippin container— on wheels. It churns out Neapolitan-style
+    pizzas with seasonal toppings like asaparagus with green garlic pesto, or
+    the classic Margherita.
+  opens_at_hour: 17
+  closes_at_hour: 20
+  open_sunday: true
+  open_monday: false
+  open_tuesday: false
+  open_wednesday: true
+  open_thursday: true
+  open_friday: true
+  open_saturday: true
+
+open_7_days:
+  name: The chairman
+  website: http://www.hailthechairman.com/
+  description: >
+    The Chairman provides hungry food truck patrons with steamed buns with pork
+    belly and pickled Daikon radishes, spicy chicken with toasted sesame purée
+    and pickled carrots-cucumber. Order your buns steamed or baked, they're
+    made fresh every day at the family's restaurant that's been in San
+    Francisco for over 40 years."
+  opens_at_hour: 11
+  closes_at_hour: 14
+  open_sunday: true
+  open_monday: true
+  open_tuesday: true
+  open_wednesday: true
+  open_thursday: true
+  open_friday: true
+  open_saturday: true
+
+open_weekdays:
+  name: hella vegan eats
+  website: http://www.hellaveganeats.com/
+  description: >
+    Vegans and meat-eaters alike will find something to try from this eccentric
+    menu. Potsticker burritos and a beet-kamut burger with vegan doughnut buns
+    are part of the allure of this roaming truck.
+  opens_at_hour: 16
+  closes_at_hour: 23
+  open_sunday: false
+  open_monday: true
+  open_tuesday: true
+  open_wednesday: true
+  open_thursday: true
+  open_friday: true
+  open_saturday: false
+
+pizza2:
+  name: Del Popolo
+  website: http://www.delpopolosf.com/
+  description: >
+    This lovely marvel of modern machinery is a huge, mobile pizza oven housed
+    in a former shippin container— on wheels. It churns out Neapolitan-style
+    pizzas with seasonal toppings like asaparagus with green garlic pesto, or
+    the classic Margherita.
+  opens_at_hour: 17
+  closes_at_hour: 20
+  open_sunday: true
+  open_monday: false
+  open_tuesday: false
+  open_wednesday: true
+  open_thursday: true
+  open_friday: true
+  open_saturday: true
+
+pizza3:
+  name: Del Popolo
+  website: http://www.delpopolosf.com/
+  description: >
+    This lovely marvel of modern machinery is a huge, mobile pizza oven housed
+    in a former shippin container— on wheels. It churns out Neapolitan-style
+    pizzas with seasonal toppings like asaparagus with green garlic pesto, or
+    the classic Margherita.
+  opens_at_hour: 17
+  closes_at_hour: 20
+  open_sunday: true
+  open_monday: false
+  open_tuesday: false
+  open_wednesday: true
+  open_thursday: true
+  open_friday: true
+  open_saturday: true

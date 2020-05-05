@@ -1,0 +1,15 @@
+pizza:
+  name: pizza
+  food_truck: pizza
+
+wood-fired:
+  name: wood-fired
+  food_truck: pizza
+
+vegan:
+  name: vegan
+  food_truck: open_weekdays
+
+burritos:
+  name: burritos
+  food_truck: open_weekdays

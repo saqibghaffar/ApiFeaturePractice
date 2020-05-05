@@ -1,0 +1,11 @@
+<h2 class="mb-3">
+  <span class="f2-light">All tags</span>
+</h2>
+
+<div class="markdown-body">
+  <ul>
+    <% @tags.each do |tag| %>
+      <li><%= link_to tag.name, tag %></li>
+    <% end %>
+  </ul>
+</div>

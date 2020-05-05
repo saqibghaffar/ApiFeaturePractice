@@ -1,0 +1,92 @@
+-
+  name: The chairman
+  website: http://www.hailthechairman.com/
+  description: >
+    The Chairman provides hungry food truck patrons with steamed buns with pork
+    belly and pickled Daikon radishes, spicy chicken with toasted sesame purée
+    and pickled carrots-cucumber. Order your buns steamed or baked, they're
+    made fresh every day at the family's restaurant that's been in San
+    Francisco for over 40 years."
+  tags: ["art", "gluten-free", "rice bowls", "bao", "steamed buns", "pork belly", "catering"]
+-
+  name: hella vegan eats
+  website: http://www.hellaveganeats.com/
+  description: >
+    Vegans and meat-eaters alike will find something to try from this eccentric
+    menu. Potsticker burritos and a beet-kamut burger with vegan doughnut buns
+    are part of the allure of this roaming truck.
+  tags: ["beer", "vegan", "oakland", "catering"]
+-
+  name: Del Popolo
+  website: http://www.delpopolosf.com/
+  description: >
+    This lovely marvel of modern machinery is a huge, mobile pizza oven housed
+    in a former shippin container— on wheels. It churns out Neapolitan-style
+    pizzas with seasonal toppings like asaparagus with green garlic pesto, or
+    the classic Margherita.
+  tags: ["pizza", "pizzeria", "wood-fired", "long lines"]
+-
+  name: Señor Sisig
+  website: http://www.senorsisig.com/
+  description: >
+    This truck fuses together the delights of a Mexican taqueria with a popular
+    Filipino "happy hour dish" called sisig. For more authentic flavors,
+    Tosilog burrito rolls up Filipino Sweet Pork, adobo garlic rice, fresh
+    tomatoes with a fried egg and a side of peppered vinegar; meanwhile the
+    California burrito is not messing around, stuffing French fries, shredded
+    cheese, sour cream, guacamole and pico de gallo into a tortilla.
+  tags: ["Filipino fusion", "burrito", "Mexican"]
+-
+  name: Little Green Cyclo
+  website: https://twitter.com/lilgreencyclo
+  description: >
+    This bright green truck serves up fresh Vietnamese favorites like banh mi
+    stuffed with lemongrass grilled pork or homemade paté with truffle oil and
+    pork roll and garlic noodles with pork. They can also be found at The Hall
+    on Market St.
+  tags: ["street food", "Vietnamese", "hipster", "banh mi", "wagyu beef", "waffle fries"]
+-
+  name: Bacon Bacon
+  website: http://www.baconbaconsf.com/the-truck
+  description: >
+    Bacon on stuff, bacon in stuff and also, just... bacon. Snag a bouquet of
+    bacon for your lover (or just eat it yourself) form this black-clad truck.
+  tags: ["breakfast", "bacon", "coffee", "sandos"]
+-
+  name: Mayo & Mustard
+  website: http://www.mayomustard.com/
+  description: >
+    While food trucks are pushing the envelope of street food these days (Bacon
+    bouquets? Potsticker burrito?), sometimes a good ol' fashioned sandwich is
+    still the best option for lunch. However, the turkey club on a Dutch crunch
+    offers a sneak-attack of flavors and textures.
+  tags: ["sandos", "deli", "sandwiches", "pastrami", "lunch"]
+-
+  name: Lobsta Truck
+  website: http://sf.lobstatruck.com/
+  description: >
+    The Lobsta Truck is a crustacean-focused affair, offering lobster and crab
+    rolls, savory lobster bisque and other New England fare like Cape Cod
+    chips. Snag a freshly-squeezed lemonade and imagine you're in the
+    Northeast, which is probably nice this time of year.
+  tags: ["lobster rolls", "New England", "lobster", "crab", "lunch"]
+-
+  name: The Boneyard
+  website: http://www.theboneyardtruck.com/
+  description: >
+    The Boneyard is a bonanza of smoked meats, featuring brisket nachos, bbq
+    bowls and the "pulled over," a sandwich with pulled pork, cole slaw, spicy
+    bacon aioli and a fried egg. The Bay Area's not known for its BBQ, but this
+    truck will satisfy the itch of many a meat-lover.
+  tags: ["bbq", "southern", "smoked meat", "pulled pork"]
+-
+  name: FK FROZEN KUHSTERD
+  website: http://frozenkuhsterd.com/
+  description: >
+    Their claim to fame as the first frozen custard truck in California is
+    overshadowed by an immense menu of flavors. What is custard, if not a
+    vessel for flavors like Four Barrel Coffee, yuzu sake, matcha and salt and
+    pepper potato chip? Top it off with some sprinkles, condensed milk or burnt
+    caramel for a truly summery, feel-good treat.
+  tags: ["frozen custard", "dessert", "toppings", "ice cream"]
+

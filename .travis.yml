@@ -1,0 +1,9 @@
+language: ruby
+rvm:
+  - 2.4
+cache: bundler
+script: bundle exec rake test
+env:
+  - DISABLE_SPRING=1
+before_install:
+  - yarn

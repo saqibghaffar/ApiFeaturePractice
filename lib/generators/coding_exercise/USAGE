@@ -1,0 +1,5 @@
+Description:
+    Adds and modifies files to set up a coding exercise in the GitGrub app
+
+Example:
+    rails generate coding_exercise [2|3]

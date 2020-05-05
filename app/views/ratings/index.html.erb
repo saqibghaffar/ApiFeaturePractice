@@ -1,0 +1,17 @@
+<h1>Listing reviews</h1>
+
+<table>
+  <tr>
+    <th>Rating</th>
+    <th>Comment</th>
+    <th></th>
+  </tr>
+
+  <% @rating.each do |rating| %>
+    <tr>
+      <td><%= rating.rating %></td>
+      <td><%= rating.comment %></td>
+
+    </tr>
+  <% end %>
+</table>

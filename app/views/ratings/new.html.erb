@@ -1,0 +1,19 @@
+
+
+<%= form_with scope: :rating, url: ratings_new_path, local: true do |form| %>
+
+  <p>
+    <%= form.label :rating %><br>
+    <%= form.text_field :rating %>
+  </p>
+
+  <p>
+    <%= form.label :comment %><br>
+    <%= form.text_area :comment %>
+  </p>
+
+  <p>
+    <%= form.submit %>
+  </p>
+
+<% end %>
